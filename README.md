@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CarelX/OxyPremium-Source/blob/main/LICENSE)
 
 ## Preface
-Full CS:GO project files for deadcell. For the OSHGui project, please see the [OSHGui repository](https://github.com/EternityX/DEADCELL-OSHGUI).
+Full CS:GO project files for 
 
 
 # OxyPremium-Source Leaked
