@@ -1,7 +1,14 @@
+p align="center">
+  <img width="500" height="250" src="https://i.imgur.com/cEwKoeV.png">
+</p>
+
 [![Discord](https://cdn.discordapp.com/attachments/830950893435617341/833195841064796181/Leaked_Menus.png)](https://discord.gg/dEMgzUZ)
 [![Build status](https://ci.appveyor.com/api/projects/status/qu55gdha81pi6t3n?svg=true)](https://ci.appveyor.com/project/auth12/deadcell-csgo)
 [![GitHub Issues](https://img.shields.io/github/issues/EternityX/DEADCELL-CSGO.svg)](https://github.com/EternityX/DEADCELL-CSGO/issues)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EternityX/DEADCELL-CSGO/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CarelX/blob/master/LICENSE)
+
+## Preface
+Full CS:GO project files for deadcell. For the OSHGui project, please see the [OSHGui repository](https://github.com/EternityX/DEADCELL-OSHGUI).
 
 
 # OxyPremium-Source Leaked
