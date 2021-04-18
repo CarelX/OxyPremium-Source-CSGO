@@ -1,6 +1,3 @@
-p align="center">
-  <img width="500" height="250" src="https://i.imgur.com/cEwKoeV.png">
-</p>
 
 [![Discord](https://cdn.discordapp.com/attachments/830950893435617341/833195841064796181/Leaked_Menus.png)](https://discord.gg/dEMgzUZ)
 [![Build status](https://ci.appveyor.com/api/projects/status/qu55gdha81pi6t3n?svg=true)](https://ci.appveyor.com/project/auth12/deadcell-csgo)
