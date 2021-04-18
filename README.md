@@ -9,6 +9,6 @@ Full CS:GO project files for
 
 
 # OxyPremium-Source Leaked
-ezik $
+ezik $ CSGOSIMPLE SOURCE PASTERS
 
 https://prnt.sc/11m83z9
